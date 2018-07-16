@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(45deg, #5900ff, #d500ff);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
